@@ -1,3 +1,3 @@
-#this is from clone
 
-print("thulasi")
+"this is from clone"
+#this is from clone
